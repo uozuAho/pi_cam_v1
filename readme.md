@@ -1,5 +1,7 @@
 # WiFi security / monitoring camera, using a Raspberry Pi Zero W
 
+Version 1. See version 2 [here](https://github.com/uozuAho/pi_cam_v2).
+
 ![](./img/camera_front.webp)
 ![](./img/camera_back.webp)
 
@@ -33,7 +35,9 @@ to watch the stream. This made it easy to position the camera.
 
 # issues
 - attaching the case to the tripod with blutack and rubber bands isn't ideal
+  - fixed in [v2](https://github.com/uozuAho/pi_cam_v2)
 - needing a separate IR spotlight is a hassle
+  - fixed in [v2](https://github.com/uozuAho/pi_cam_v2)
 - cannot stream video and record at the same time. If you want to do that, look
   into
   - [motion](https://motion-project.github.io/index.html)
